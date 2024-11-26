@@ -1,3 +1,11 @@
-# Stock-Prediction-using-LSTM
+Project Description:  
+Predict stock prices using historical stock data and news sentiment analysis.
 
-The Stock Price Prediction project uses Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN), to predict future stock prices based on historical market data. LSTM is ideal for this task due to its ability to capture long-term dependencies in sequential data.
+Objectives:
+- Download stock data and fetch news headlines.
+- Analyze sentiment of news headlines.
+- Use LSTM to predict stock prices.
+- Visualize predictions and assess feature importance.
+
+Conclusion:  
+The model enhances stock price prediction by incorporating news sentiment along with historical data.
